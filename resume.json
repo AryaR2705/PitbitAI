@@ -1,0 +1,114 @@
+{
+  "name": "Arya Ramteke",
+  "title": "Machine Learning | MERN Developer | Prompt Engineering",
+  "contact": {
+    "email": "aryarramteke@gmail.com",
+    "phone": ["8329843704", "9765510356 (whatsapp)"],
+    "location": "Pune",
+    "profiles": {
+      "GitHub": "https://github.com/AryaR2705",
+      "HackerRank": "https://www.hackerrank.com/profile/arya_22110058",
+      "LinkedIn": "http://www.linkedin.com/in/arya-ramteke",
+      "Netlify": "https://app.netlify.com/teams/aryar2705/overview",
+      "Website": "https://aryar.netlify.app/",
+      "CodeForces": "https://codeforces.com/profile/Arya_Ramteke"
+    }
+  },
+  "education": [
+    {
+      "year": "2021 - Present",
+      "degree": "B.Tech in IT",
+      "institution": "Vishwakarma Institute of Information Technology, Pune",
+      "CPI/Percentage": "CGPA: 7.65"
+    },
+    {
+      "year": "2019 - 2021",
+      "degree": "HSC",
+      "institution": "Government Industrial Training Institute, Nagpur",
+      "CPI/Percentage": "87%"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ethic-Eye",
+      "event": "Hackathon DPBH Jan-2024",
+      "links": {
+        "GitHub": "https://github.com/AryaR2705/EthicEye",
+        "arXiv": "http://arxiv.org/abs/2406.01608",
+        "PDF": "https://arxiv.org/pdf/2406.01608"
+      },
+      "technologies": ["BERT", "Flask", "Bs4", "Javascript", "ML", "Selenium-WebDriver", "Extension", "Data pre-processing"],
+      "description": "A Dark-Pattern detector extension for e-commerce sites. System using Selenium WebDriver for deploying a headless browser session, and BeautifulSoup for web scraping. Further processing the scraped text with a fine-tuned BERT model, trained on a GitHub dataset which was further modified by human evaluators on Colab’s T4-GPU. The extension provides predictions within 15 seconds.",
+      "features": ["Fast & one-click functionality", "AI-driven detection capabilities", "Secure browsing experience"]
+    },
+    {
+      "name": "AsukaBot",
+      "date": "Sept-2023",
+      "links": {
+        "Project": "https://asukaarya.netlify.app/",
+        "GitHub": "https://github.com/AryaR2705/asuka1"
+      },
+      "technologies": ["400M LLM", "ML", "MERN", "Fine-tuning", "Data collection", "Sd(1.5)", "LoRA", "Netlify"],
+      "description": "Sophisticated Chatbot(nsfw) which talks, interacts and send pictures by leveraging fine-tuned facebook’s Blenderbot LLM to exhibit an Generative ENTJ persona, trained on a Colab over 8 hours, and deployed on Hugging Face with 12GB RAM for inference. Integrated MongoDB Atlas for storage of user-bot interactions and utilized Stable-Diffusion 1.5 with Character’s LoRA for image generation.",
+      "features": ["Real-time", "Privacy & Security", "Stores chats on MongoDB server", "Contextual Understanding"]
+    },
+    {
+      "name": "Guest-Genie",
+      "date": "Nov-2023",
+      "credentials": {"username": "123", "password": "123"},
+      "links": {
+        "Project": "https://guestgenie.netlify.app/",
+        "GitHub": "https://github.com/AryaR2705/EthicEye"
+      },
+      "technologies": ["SQLite3", "RegEx", "ML", "NodeJs", "SVM", "Data Collection", "Flask", "Annyang", "Gunicorn", "Render.com"],
+      "description": "Guest Genie, a dynamic hotel booking system with voice-activated management. Users speak their booking details, which are automatically extracted and populated into a form using regular expressions. The system includes features for viewing, inserting and deleting entries. Additionally integrated a bot which guide’s user on top 10 hotels in Pune, Collected data from Gemini and manual internet research.",
+      "features": ["User friendly interface", "Database Storage", "Real Information gathered on hotels"]
+    },
+    {
+      "name": "PyPI Package",
+      "date": "Apr-2024",
+      "links": {
+        "Project": "https://pypi.org/project/aryar",
+        "GitHub": "https://github.com/AryaR2705/pip-install-aryar"
+      },
+      "technologies": ["PythonPackage", "HuggingFace API", "Salesforce BLIP Model", "GPT-2", "Automated", "Batch Processing"],
+      "description": "A Python script for automated image storytelling. Utilized Hugging Face APIs to generate image captions and create corresponding stories. Implemented functionality to read images, generate captions using the BLIP model, and produce stories with GPT-2."
+    }
+  ],
+  "skills": {
+    "Programming Languages": ["C", "Python (basic)", "JavaScript", "SQL"],
+    "Full Stack Web Development": ["React", "NodeJS", "Flask", "HTML", "CSS", "MongoDB"],
+    "AI & Machine Learning": ["NLP", "Fine-tuning", "LLM", "Generative AI", "Stable Diffusion"],
+    "Prompt Engineering & Tools": ["Persona Creation", "Jailbreaking", "Automatic 1111", "Burp Suite"]
+  },
+  "certifications": [
+    {"name": "Data Science (basic)", "provider": "Google"},
+    {"name": "Full Stack Developer", "provider": "IBM"},
+    {"name": "Hackathon", "event": "DPBH"}
+  ],
+  "experience_achievements": [
+    {
+      "name": "Dark Pattern Detector Hackathon 2024",
+      "date": "Jan-2024",
+      "description": "Unmasking unethical user patterns that manipulate user behavior for deceptive gains. Round-2",
+      "links": {
+        "Certificate": "https://drive.google.com/file/d/1eeihApBSNtukmNPA7-yq9IyJF5FsuS-I/view?usp=sharing",
+        "HuggingFace": "https://huggingface.co/Arya20032705/dark_pattern"
+      }
+    },
+    {
+      "name": "Shell.ai Hackathon 2024",
+      "date": "Jun-2024",
+      "rank": "Rank: 82 of 1002",
+      "description": "Optimizing Fleet Decarbonization strategies for road transport & develop cost-effective solutions for achieving net-zero emissions while meeting business objectives.",
+      "links": {
+        "GitHub": "https://github.com/AryaR2705/Shell-AI"
+      }
+    },
+    {
+      "name": "EDC-2022",
+      "role": "Content Creator",
+      "date": "Sept-Dec 2022"
+    }
+  ]
+}
